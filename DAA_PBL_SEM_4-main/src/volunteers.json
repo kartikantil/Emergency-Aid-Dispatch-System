@@ -1,0 +1,29 @@
+[
+{
+    "assignedRequests": [5],
+    "capacity": 3,
+    "currentLoad": 1,
+    "location": 1,
+    "name": "Rahul",
+    "password": "123",
+    "phone": "9999999999"
+  },
+{
+    "assignedRequests": [],
+    "capacity": 2,
+    "currentLoad": 0,
+    "location": 3,
+    "name": "Amit",
+    "password": "456",
+    "phone": "8888888888"
+  },
+{
+    "assignedRequests": [],
+    "capacity": 5,
+    "currentLoad": 0,
+    "location": 1,
+    "name": "raman singh",
+    "password": "raman123",
+    "phone": "2500250036"
+  }
+]
